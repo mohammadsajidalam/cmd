@@ -4,5 +4,5 @@ cd Desktop
 mkdir SAJID-TEST
 cd %OneDrive%
 cd Desktop
-mkdr EMAIL-IF-FOLDER-MADE-HERE
+mkdir EMAIL-IF-FOLDER-MADE-HERE
 
