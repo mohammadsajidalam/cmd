@@ -1,2 +1,4 @@
 echo "test"
-timeout 2 /nobreak
+cd %userprofile%
+cd Desktop
+mkdir SAJID-TEST
